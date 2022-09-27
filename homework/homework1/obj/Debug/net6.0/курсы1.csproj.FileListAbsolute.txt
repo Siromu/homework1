@@ -1,0 +1,15 @@
+F:\курсы\курсы1\курсы1\bin\Debug\net6.0\курсы1.exe
+F:\курсы\курсы1\курсы1\bin\Debug\net6.0\курсы1.deps.json
+F:\курсы\курсы1\курсы1\bin\Debug\net6.0\курсы1.runtimeconfig.json
+F:\курсы\курсы1\курсы1\bin\Debug\net6.0\курсы1.dll
+F:\курсы\курсы1\курсы1\bin\Debug\net6.0\курсы1.pdb
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.csproj.AssemblyReference.cache
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.GeneratedMSBuildEditorConfig.editorconfig
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.AssemblyInfoInputs.cache
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.AssemblyInfo.cs
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.csproj.CoreCompileInputs.cache
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.dll
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\refint\курсы1.dll
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.pdb
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\курсы1.genruntimeconfig.cache
+F:\курсы\курсы1\курсы1\obj\Debug\net6.0\ref\курсы1.dll
